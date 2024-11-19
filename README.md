@@ -39,8 +39,8 @@
 ### Các Bước Cài Đặt
 1. Clone dự án:
 ```bash
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
+git clone https://github.com/DuyTran04/N14_MuonSach
+cd N14_MuonSach
 ```
 
 2. Cài đặt các thư viện Python:
@@ -97,9 +97,3 @@ python main.py
 
 4. **Thống Kê**:
    * Xem báo cáo số liệu trực quan thông qua biểu đồ
-
-## 📧 LIÊN HỆ
-Nếu bạn có câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ:
-* **Tác giả**: Tên của bạn
-* **Email**: your-email@example.com
-* **GitHub**: Your GitHub Profile
